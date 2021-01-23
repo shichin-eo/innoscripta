@@ -1,0 +1,18 @@
+{
+  "name": "innoscripta",
+  "version": "1.0.0",
+  "description": "eoshichi test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "innoscripta"
+  ],
+  "author": "Evgenii Shichin <evgeniy.ru_94@mail.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/puppeteer": "^5.4.2",
+    "puppeteer": "^5.5.0"
+  }
+}
